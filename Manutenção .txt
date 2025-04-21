@@ -1,0 +1,48 @@
+Manutenção 
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"></meta>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
+    <title>Em Manutenção</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            paddin g: 50px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+        h1 {
+            color: #e74c3c;
+            font-size: 36px;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Estamos em manutenção</h1>
+        <p>Voltaremos em breve. Agradecemos a sua paciência.</p>
+        <div class="footer">
+            <p>© 2025 mozconecta.com</p>
+        </div>
+    </div>
+
+</body>
+</html>
